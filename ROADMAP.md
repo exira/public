@@ -11,9 +11,17 @@
 
 ## v2
 
-- [ ] Viewing certificates.
+- [ ] Support CAA DNS records.
 
 ## v3
+
+- [ ] Support wildcard DNS records.
+
+## v4
+
+- [ ] Viewing certificates.
+
+## v5
 
 - [ ] Multi-account support.
 
