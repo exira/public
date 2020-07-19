@@ -3,7 +3,7 @@
 ## v1
 
 - [ ] Secure multi-language administration console.
-- [ ] Administration of domains.
+- [ ] Administration of domains (without NS records).
 - [ ] Viewing hosting packages.
 - [ ] Viewing G Suite packages.
 - [ ] Viewing contacts.
@@ -19,9 +19,13 @@
 
 ## v4
 
-- [ ] Viewing certificates.
+- [ ] Support NS records at registrar.
 
 ## v5
+
+- [ ] Viewing certificates.
+
+## v6
 
 - [ ] Multi-account support.
 
