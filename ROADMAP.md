@@ -35,3 +35,7 @@
 - [ ] Administration of G Suite packages.
 - [ ] Administration of contacts.
 - [ ] Administration of certificates.
+
+## vPurchase
+
+- [ ] Buy domains online.
